@@ -136,7 +136,7 @@ Compare the simulation results with the theoretical calculations and discuss any
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
 
 ## output
-<img width="1920" height="1080" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/38e30b01-280e-417e-9666-542113a01f13" />
+<img width="1910" height="1020" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/38e30b01-280e-417e-9666-542113a01f13" />
 
 ## calculation
 ![WhatsApp Image 2026-02-11 at 11 33 27 AM](https://github.com/user-attachments/assets/59444993-548f-4e3c-8021-c5bbf91199f1)
