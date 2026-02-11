@@ -153,18 +153,6 @@ Thus,the results predicted by the linear system model of an optical fiber with t
 
 
 
-## calculation
-
-![WhatsApp Image 2026-02-11 at 10 51 57 AM](https://github.com/user-attachments/assets/f0e7b336-b58f-4a19-951c-01ea1d8010ee)
-
-![WhatsApp Image 2026-02-11 at 10 52 09 AM](https://github.com/user-attachments/assets/6ee1f5ff-e707-4603-89fd-64c1cafd8634)
-
-![WhatsApp Image 2026-02-11 at 10 51 56 AM](https://github.com/user-attachments/assets/7e149db6-7800-456a-9ea9-6c4ce019c9a1)
-
-# Result
-
-Thus,the results predicted by the linear system model of an optical fiber with the results of simulation has been verified.
-
 
 
 
